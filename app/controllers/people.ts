@@ -23,4 +23,3 @@ class PeopleCtrl implements IPeople {
 }
 
 export  { PeopleCtrl };
-
